@@ -1,4 +1,2 @@
 regular tracked file
-going to stash
-edit on repot
-and more changes
+stash pop conflict

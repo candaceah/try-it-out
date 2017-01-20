@@ -1,2 +1,3 @@
 regular tracked file
 stash test
+add repository line

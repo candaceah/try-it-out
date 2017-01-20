@@ -1,2 +1,2 @@
 regular tracked file
-repo version with a change
+stash version

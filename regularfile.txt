@@ -1,2 +1,3 @@
 regular tracked file
 going to stash
+change in repo

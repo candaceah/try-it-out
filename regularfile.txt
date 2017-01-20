@@ -1,8 +1,2 @@
 regular tracked file
-<<<<<<< .mine
-repo version conflict
-
-=======
-stash
-
->>>>>>> .theirs
+local

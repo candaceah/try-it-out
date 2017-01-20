@@ -1,2 +1,3 @@
 regular tracked file
-changes on rerpo
+stash pop conflict
+take 2

@@ -1,3 +1,2 @@
 regular tracked file
-stash pop conflict
-take 2
+repo version

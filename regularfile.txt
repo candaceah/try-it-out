@@ -1,3 +1,4 @@
 regular tracked file
 repo version conflict
-add stash
+add stash again
+

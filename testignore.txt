@@ -1,2 +1,6 @@
 New file
+<<<<<<< HEAD
 change to file local
+=======
+change to this file on repo
+>>>>>>> 10d8c342ac2a13ca482f30669131b99b2b8edb73

@@ -1,1 +1,2 @@
 Exclude file from checkin and update
+These changes shouldn't be commited

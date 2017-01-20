@@ -1,3 +1,4 @@
 regular tracked file
 stash test
 add repository line
+Adding some future changes before stashing

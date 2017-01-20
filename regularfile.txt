@@ -1,4 +1,3 @@
 regular tracked file
 going to stash
-change here
-
+edit on local

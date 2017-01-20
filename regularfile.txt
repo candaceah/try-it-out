@@ -1,6 +1,3 @@
 regular tracked file
-<<<<<<< Updated upstream
 repo version
-=======
 stash version again
->>>>>>> Stashed changes

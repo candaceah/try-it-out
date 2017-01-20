@@ -1,6 +1,1 @@
-Exclude file from checkin and update
-<<<<<<< HEAD
-These changes shouldn't be commited
-=======
-will this be updated
->>>>>>> 10d8c342ac2a13ca482f30669131b99b2b8edb73
+change on repositroy

@@ -1,3 +1,2 @@
 regular tracked file
-repository
-local
+stash test
